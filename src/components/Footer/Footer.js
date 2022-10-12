@@ -51,7 +51,7 @@ export const Footer = () => {
                 title="Our phone"
                 className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800"
               >
-                850-123-5021
+                850-123-505
               </a>
             </div>
             <div className="flex">
