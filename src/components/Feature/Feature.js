@@ -11,8 +11,7 @@ const Feature = () => {
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
                             </svg>
                             <div className="space-y-2">
-                                <p className="text-lg font-medium leading-snug">Lorem ipsum dolor sit amet</p>
-                                <p className="leading-snug">Praesentium ea et neque distinctio quas eius repudiandae quaerat obcaecati voluptatem similique!</p>
+                                <p className="text-lg font-medium leading-snug">Impacts include the lack of efficiency of technology, the difficulty for pupils to understand the concepts taught, and online learning causes social isolation and results in pupils not developing the necessary communication skills</p>
                             </div>
                         </div>
                         <div className="flex space-x-2 sm:space-x-4">
@@ -20,8 +19,8 @@ const Feature = () => {
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
                             </svg>
                             <div className="space-y-2">
-                                <p className="text-lg font-medium leading-snug">Lorem ipsum dolor sit amet</p>
-                                <p className="leading-snug">Praesentium ea et neque distinctio quas eius repudiandae quaerat obcaecati voluptatem similique!</p>
+                                <p className="text-lg font-medium leading-snug">What is the benefit of online learning</p>
+                                <p className="leading-snug">Rather than leave the office early or skip family dinner to commute to campus, you're logging on when it's convenient for you—at a time that doesn't interfere with other commitments. That flexibility allows you to more easily balance work, life, and graduate school.</p>
                             </div>
                         </div>
                         <div className="flex space-x-2 sm:space-x-4">
@@ -29,7 +28,7 @@ const Feature = () => {
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
                             </svg>
                             <div className="space-y-2">
-                                <p className="text-lg font-medium leading-snug">Lorem ipsum dolor sit amet</p>
+                                <p className="text-lg font-medium leading-snug">Why </p>
                                 <p className="leading-snug">Praesentium ea et neque distinctio quas eius repudiandae quaerat obcaecati voluptatem similique!</p>
                             </div>
                         </div>
