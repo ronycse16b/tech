@@ -25,7 +25,7 @@ export const Footer = () => {
                 <rect x="14" y="11" width="7" height="12" />
               </svg>
               <span className="ml-2 text-xl font-bold tracking-wide text-black uppercase">
-                Company
+                E learning
               </span>
             </a>
             <div className="mt-6 lg:max-w-sm">
