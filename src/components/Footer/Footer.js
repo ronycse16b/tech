@@ -81,7 +81,8 @@ export const Footer = () => {
           </div>
           <div>
             <span className="text-base font-bold tracking-wide text-black">
-              Social
+              Social media
+              
             </span>
             <div className="flex items-center mt-1 space-x-3">
               <a
